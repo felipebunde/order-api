@@ -4,7 +4,7 @@ const app = require('./src/app');
 const PORT = process.env.PORT || 3000;
 
 // URL do MongoDB Atlas
-const MONGODB_URI = process.env.MONGODB_URI || 'mongodb+srv://admin:admin123@apiorder.fu7e3je.mongodb.net/order_db?retryWrites=true&w=majority';
+const MONGODB_URI = process.env.MONGODB_URI || 'MONGODB_URI=mongodb+srv://admin:NOVA_SENHA_AQUI@cluster0.xxxxx.mongodb.net/order_db';
 
 // Conectar ao MongoDB
 mongoose.connect(MONGODB_URI)
