@@ -66,7 +66,7 @@ https://cloud.mongodb.com
 2. Vá em:
 
 ```
-Database → Connect → Connect your application
+Database → Clusters→ Connect → Connect your application
 ```
 
 3. Copie a string que começa com:
